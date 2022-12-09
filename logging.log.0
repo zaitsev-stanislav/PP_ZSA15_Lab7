@@ -1,0 +1,6 @@
+2022-12-08 13:35:38 [INFO   ] javafxapplication.JavaFXApplication - Start programm 
+2022-12-08 13:35:38 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-12-08 13:35:38 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-12-08 13:35:38 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-12-08 13:35:38 [INFO   ] javafxapplication.JavaFXApplication - Some message 
+2022-12-08 13:35:38 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 

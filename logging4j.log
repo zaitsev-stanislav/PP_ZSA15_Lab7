@@ -1,0 +1,8 @@
+2022-12-08 13:35:44 [INFO ] FXMLDocumentController:54 - Start button
+2022-12-08 13:35:44 [INFO ] FXMLDocumentController:86 - End button
+2022-12-08 13:35:47 [INFO ] FXMLDocumentController:91 - Start Clear
+2022-12-08 13:35:47 [INFO ] FXMLDocumentController:96 - End Clear
+2022-12-08 13:35:55 [INFO ] FXMLDocumentController:54 - Start button
+2022-12-08 13:35:55 [FATAL] FXMLDocumentController:83 - Fatal error! Деление на ноль
+2022-12-08 13:35:55 [INFO ] FXMLDocumentController:86 - End button
+2022-12-08 13:36:01 [INFO ] FXMLDocumentController:101 - End log4j
